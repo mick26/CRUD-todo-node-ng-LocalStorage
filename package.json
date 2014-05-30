@@ -1,0 +1,12 @@
+{
+  "name": "Todo-Node-Express-ng-LocalStorage",
+  "version": "0.0.1",
+  "description": "App demonstrating CRUD using HTML5 Local Storage.",
+  "main": "node server.js",
+  "author": "Michael Cullen",
+  "dependencies": {
+    "express": "4.2.0",
+    "morgan": "~1.0.1",
+    "colors": "~0.6.2"
+  }
+}

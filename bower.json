@@ -1,0 +1,22 @@
+{
+  "name": "Angular-MongoDb-CRUD",
+  "version": "0.0.1",
+  "authors": [ "Michael Cullen" ],
+  "description": "CRUD Todo connected to Mongo DB",
+  "ignore": [
+  "**/*.txt",
+  "node_modules",
+  "bower_components",
+  "test",
+  "tests"
+  ],
+  "dependencies": {
+  "bootstrap": "~3",
+  "angular": "*",
+  "angular-route": "*",
+  "angular-resource": "*",
+  "angular-animate": "*"
+  },
+  "license": "MIT",
+  "private": true
+}

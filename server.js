@@ -12,7 +12,7 @@ External Modules/Packages Required
 ============================================================ */
 var express  = require('express');						//Express v4.2 Web server
 var logger   = require('morgan');						//logger middleware
-var coloure  = require('colors');						
+var colours  = require('colors');						
 
 /* ========================================================== 
 Port the server will listen on
